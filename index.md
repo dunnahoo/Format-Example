@@ -1,4 +1,4 @@
-# 6 Install SecureWise (optional)
+# 6. Install SecureWise (optional)
 
 ## 6.1 About SecureWise
 
