@@ -25,11 +25,19 @@ Installing SecureWise is optional but recommended because: lorem ipsum dolor sit
 
 ## 6.3 Install SecureWise
 
+### Subordinate step
+
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
 
 2. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.
 
 3. ...
+
+### Subordinate step
+
+1. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.
+
+2. ...
 
 ## 6.4 Configure SecureWise Settings
 
