@@ -25,7 +25,7 @@ Installing SecureWise is optional but recommended because: lorem ipsum dolor sit
 
 ## 6.3 Install SecureWise
 
-### Subordinate step
+### Intermediate steps
 
 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
 
@@ -33,7 +33,7 @@ Installing SecureWise is optional but recommended because: lorem ipsum dolor sit
 
 3. ...
 
-### Subordinate step
+### Intermediate steps
 
 1. Ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.
 
